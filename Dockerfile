@@ -1,1 +1,1 @@
-FROM vs69/mtlb:latest
+FROM vs69/mltb:latest
