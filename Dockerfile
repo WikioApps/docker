@@ -1,1 +1,5 @@
 FROM vs69/mltb:latest
+
+ENV BASE_URL_PORT=8080
+
+EXPOSE 8080
