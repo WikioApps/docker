@@ -2,5 +2,5 @@
   "kind": "service",
   "runtime": "container",
   "image": "vs69/mltb:latest",
-  "port": 8080
+  "port": 80
 }
