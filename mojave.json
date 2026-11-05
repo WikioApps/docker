@@ -1,0 +1,4 @@
+{
+  "kind": "service",
+  "runtime": "container",
+  "image": "vs69/mltb:latest"
