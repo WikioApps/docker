@@ -1,3 +1,3 @@
 FROM vs69/mltb:latest
 
-EXPOSE 80
+EXPOSE 8080
